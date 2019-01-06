@@ -1,0 +1,14 @@
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.csprojAssemblyReference.cache
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\bin\Debug\netcoreapp2.1\KenDotNetWithAng6.deps.json
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\bin\Debug\netcoreapp2.1\KenDotNetWithAng6.runtimeconfig.json
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\bin\Debug\netcoreapp2.1\KenDotNetWithAng6.runtimeconfig.dev.json
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\bin\Debug\netcoreapp2.1\KenDotNetWithAng6.dll
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\bin\Debug\netcoreapp2.1\KenDotNetWithAng6.pdb
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.csproj.CoreCompileInputs.cache
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.RazorAssemblyInfo.cache
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.RazorAssemblyInfo.cs
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.AssemblyInfoInputs.cache
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.AssemblyInfo.cs
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.RazorTargetAssemblyInfo.cache
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.dll
+c:\users\kenneth\source\repos\KenDotNetWithAng6\KenDotNetWithAng6\obj\Debug\netcoreapp2.1\KenDotNetWithAng6.pdb
